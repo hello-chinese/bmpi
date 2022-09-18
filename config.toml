@@ -1,4 +1,4 @@
-baseURL = "tangerine-dragon-048204.netlify.app"
+baseURL = ""
 title = "KingWay"
 theme = "hugo-coder"
 languageCode = "en"
