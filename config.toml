@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "johndoe"
+baseURL = "tangerine-dragon-048204.netlify.app"
+title = "KingWay"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
