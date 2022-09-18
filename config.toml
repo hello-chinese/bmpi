@@ -42,6 +42,12 @@ customSCSS = []
 # Custom JS
 customJS = []
 
+[params.utteranc]
+  enable = true
+  repo = "hello-chinese/bmpi" ##换成自己得
+  issueTerm = "pathname"
+  theme = "github-light"
+
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 # [params.fathomAnalytics]
 # siteID = "ABCDE"
